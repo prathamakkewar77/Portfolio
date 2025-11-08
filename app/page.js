@@ -58,7 +58,7 @@ export default function Home() {
     <>
       <div id="particles-js" className="fixed inset-0 z-0 h-full"></div> 
       <div className="z-10 flex flex-col items-end justify-center w-full h-full mt-5">
-      <a href="https://drive.google.com/file/d/1upJ6ZXwqq23Qrir9VqZQ7bbcbFNzHIs_/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1iqzPmLsJ98mOKDcSNl3Je5V2y8VokY_u/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         <button className="fixed top-4 right-4 bg-[#f39c12] hover:bg-[#e67e22] text-white font-bold py-2 px-4 rounded-lg shadow-lg transition duration-300">
           View Resume
         </button></a>
